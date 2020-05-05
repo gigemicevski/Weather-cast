@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    max-width: 400px;
+    margin:0 auto;
+}
+
+.display{
+    margin: 15px;
+    font-size: 24px;
+}
+
+.icon {
+    position: absolute;
+    top: 470px;
+    left:600px;
+    background: none;
+    border-radius: 90%;
+    width: 150px;
+    background: transparent;
+    
+}
+
+.city{
+    margin-top:25px;
+}
